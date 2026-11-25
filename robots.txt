@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tianyaooooo.github.io/homepage-preview/sitemap-index.xml
+Sitemap: https://www.ustyaotian.com/sitemap-index.xml
